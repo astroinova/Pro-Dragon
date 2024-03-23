@@ -1,1 +1,1 @@
-{"status":"success","message":"Autenticado com sucesso."}
+{"status":"success","message":"Logado com sucesso."}
